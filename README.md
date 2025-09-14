@@ -7,6 +7,7 @@ I'm Ray and I'm a web design/dev student learning
   <li>JS</li>
   <li>JQuery</li>
   <li>Vue.js</li>
+  <li>UX/UI</li>
 </ul>
 
 and more :)
